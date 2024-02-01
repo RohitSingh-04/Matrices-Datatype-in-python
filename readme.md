@@ -1,4 +1,4 @@
-#This is A Matrix DataType
+# This is A Matrix DataType
 
 **Methods for Creating a Matrix**
 
@@ -42,7 +42,7 @@ this will return a list of list
 
 supporse obj is an object of matrices type the on running this fx will return number of elements in a matrix
 
-##arithmetic operations
+## arithmetic operations
 
 >Addition
 
